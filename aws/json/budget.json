@@ -4,7 +4,7 @@
         "Unit": "USD"
     },
     "BudgetName": "realibex_budget",
-    "BudgetType": "bootcamp_cost",
+    "BudgetType": "COST",
     "CostFilters": {
         "TagKeyValue": [
             "user:Key$value1",
